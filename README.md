@@ -121,3 +121,20 @@ docker push hernande/galeria:latest
 
 ---
 
+3. Actions: build and push
+3.1 Crear el secreto
+[Imgur](https://imgur.com/5Ew3Rwr)
+
+3.2 Crear el Action
+Action creado.
+Creación de rama local llamada cambio_titulo (git checkout -b cambio_titulo)
+git push --set-upstream origin cambio_titulo
+git add .
+git commit -m 'Adición de apellidos en title de index.html'
+git push
+
+Posteriormente, creo PR y me la acepto porque estoy yo solo en el proyecto. (Pasa el test)
+[Imgur](https://imgur.com/nOe0a21)
+[Imgur](https://imgur.com/NEqfdRi)
+[Imgur](https://imgur.com/hLUUX9d)
+[Imgur](https://imgur.com/0DmWkaV)
