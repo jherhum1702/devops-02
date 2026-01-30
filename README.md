@@ -137,4 +137,10 @@ Posteriormente, creo PR y me la acepto porque estoy yo solo en el proyecto. (Pas
 [Imgur](https://imgur.com/nOe0a21)
 [Imgur](https://imgur.com/NEqfdRi)
 [Imgur](https://imgur.com/hLUUX9d)
+
+Imagen subida a DockerHub
 [Imgur](https://imgur.com/0DmWkaV)
+
+4. Action: despliegue en AWS
+He creado una instancia con ip estática llamada devops-02
+(Continúo en casa y hago git pull --rebase y ya el push)
